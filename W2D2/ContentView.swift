@@ -5,6 +5,9 @@
 //  Created by Anjo on 9/4/25.
 //
 
+// I created a clicker game where the goal is to tap on the coin to collect more coins. Every 10
+// coins, the user is alerted with a reward that tells them to continue clicking.
+
 import SwiftUI
 
 struct ContentView: View {
